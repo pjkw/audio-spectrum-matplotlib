@@ -5,6 +5,8 @@
 # Deps: PyAudio, NumPy, and Matplotlib
 # Blog: https://yjlv.blogspot.com2012/11/frequency-spectrum-of-sound-using.html
 
+# wav to midi: https://machinelearningmastery.com/introduction-python-deep-learning-library-tensorflow/
+
 import struct
 import wave
 
